@@ -17,5 +17,5 @@ PrintArray(array2);       метод выводит на консоль.
 
 #### Добавили Блок-схему
 
-[Блок-схема](./diagram/Blocktask.png)
+![Блок-схема](./diagram/Blocktask.png)
 
